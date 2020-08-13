@@ -1,0 +1,31 @@
+ body{
+ 	margin: 0;
+ 	padding: 0;
+ }
+ form{
+ 	width: 250px;
+ 	padding: 30px 15px 15px 15px;
+ 	background: #ddd;
+ }
+
+
+
+
+ .nisad{
+ width: 100%;
+font-size: 36px;
+padding: 5px 5px;
+box-sizing: border-box;
+text-align: right;
+}
+input[type="button"]{
+	width: 58px;
+	height: 55px;
+	background: #aaa;
+	color: #fff;
+	font-size: 24px;
+	margin-bottom: 5px;
+}
+hr{
+	margin: 15px 0;
+}
